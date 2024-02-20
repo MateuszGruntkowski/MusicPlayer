@@ -9,11 +9,8 @@ Features
 6. User-Friendly Console Interface: Despite being a console-based application, the Playlist Manager offers a user-friendly menu-driven interface for easy navigation and interaction.
 
 
-Classes:
+Classes
 Playlist Class: Manages individual playlists, including adding tracks, deleting tracks, displaying tracks, and sorting tracks.
-
 Player Class: Acts as the main controller class, handling user interactions and executing operations based on user input.
-
 Track Class: Represents individual tracks with properties such as title, artist, and year of release.
-
 PlaylistManager Class: Contains the main method to initialize the application and start the playlist management process.
