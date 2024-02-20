@@ -10,7 +10,7 @@ Features
 
 
 Classes
-Playlist Class: Manages individual playlists, including adding tracks, deleting tracks, displaying tracks, and sorting tracks.
-Player Class: Acts as the main controller class, handling user interactions and executing operations based on user input.
-Track Class: Represents individual tracks with properties such as title, artist, and year of release.
-PlaylistManager Class: Contains the main method to initialize the application and start the playlist management process.
+1. Playlist Class: Manages individual playlists, including adding tracks, deleting tracks, displaying tracks, and sorting tracks.
+2. Player Class: Acts as the main controller class, handling user interactions and executing operations based on user input.
+3. Track Class: Represents individual tracks with properties such as title, artist, and year of release.
+4. PlaylistManager Class: Contains the main method to initialize the application and start the playlist management process.
